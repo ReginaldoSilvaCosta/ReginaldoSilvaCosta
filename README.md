@@ -1,5 +1,5 @@
 Olá, eu sou Reginaldo da Silva Costa 
-Eu estou interessado em Programação 
+Eu estou interessado em Programação em .Net
 
 
 <!---
